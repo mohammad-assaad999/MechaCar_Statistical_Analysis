@@ -56,9 +56,8 @@ The p-value of the whole lots in the data is 0.041 which is below the assumed si
 
 ## Study Design: MechaCar vs Competition
 Finally, I'm going to perform a statistical study that can quantify how the MechaCar performs against the competition. In order to achieve this study, I'll answer the following questions:
- - **What metric or metrics are you going to test?**
- 	ss
- - **What is the null hypothesis or alternative hypothesis?** aaa
- - **What statistical test would you use to test the hypothesis? And why?**
- - **What data is needed to run the statistical test?**
+ - **What metric or metrics are you going to test?** The best and easiest metric to look at while making a comparision between two companies is the cost of the product or service. That's why I'll be looking at the price of the cars in MechaCar and the other competitor.
+ - **What is the null hypothesis or alternative hypothesis?** Simply, there will not be an overall difference in price between vehicles manufactured in MechaCar versus the competition if there is not enough evidence to reject the null hypothesis oe when the p-value is above the assumed significance level.
+ - **What statistical test would you use to test the hypothesis? And why?** In this example, we'll be using the Pair t-test to compare two samples, each from a different population that are the sample from the MechaCar and the other sample from the competition.
+ - **What data is needed to run the statistical test?** It's enough to just take a sample from the MechaCar data and another sample from the competition data by using the sample_n() built-in function in R. 
 
