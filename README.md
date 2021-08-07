@@ -58,7 +58,7 @@ The p-value of the whole lots in the data is 0.041 which is below the assumed si
 Finally, I'm going to perform a statistical study that can quantify how the MechaCar performs against the competition. In order to achieve this study, I'll answer the following questions:
  - What metric or metrics are you going to test?
  	ss
- - What is the null hypothesis or alternative hypothesis?
+ **- What is the null hypothesis or alternative hypothesis?** aaa
  - What statistical test would you use to test the hypothesis? And why?
  - What data is needed to run the statistical test?
 
